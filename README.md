@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RochakSedai
-- 👀 I’m interested in Machine Learning and Full Stack
+- 👀 I’m interested in Data, Machine Learning and Full Stack
 - 🌱 I’m currently learning Computer Engineering
 
 <!---
